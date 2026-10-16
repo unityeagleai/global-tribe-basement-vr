@@ -1,0 +1,1622 @@
+{
+ "lines": {
+  "mg1": {
+   "spk": "miles",
+   "text": "Unity. Welcome back. Don't mind the cubes, they're load-bearing.",
+   "tts": "Unity. Welcome back. Don't mind the cubes, they're load-bearing.",
+   "cut": false
+  },
+  "mg2": {
+   "spk": "miles",
+   "text": "There she is. The judge. I brought stroopwafels. No pressure.",
+   "tts": "There she is. The judge. I brought stroopwafels. No pressure.",
+   "cut": false
+  },
+  "mg3": {
+   "spk": "miles",
+   "text": "Oh hey. I've been here the whole time. Fully responsive.",
+   "tts": "Oh hey. I've been here the whole time. Fully responsive.",
+   "cut": false
+  },
+  "mg4": {
+   "spk": "miles",
+   "text": "Good timing. Charlie was about to explain his code. Again.",
+   "tts": "Good timing. Charlie was about to explain his code. Again.",
+   "cut": false
+  },
+  "mg5": {
+   "spk": "miles",
+   "text": "Shoes off. The Roomba has allergies.",
+   "tts": "Shoes off. The Roomba has allergies.",
+   "cut": false
+  },
+  "mp1": {
+   "spk": "miles",
+   "text": "Hey. Hands off the bronze.",
+   "tts": "Hey. Hands off the bronze.",
+   "cut": false
+  },
+  "mp2": {
+   "spk": "miles",
+   "text": "Easy. I'm running on borrowed RAM.",
+   "tts": "Easy. I'm running on borrowed RAM.",
+   "cut": false
+  },
+  "mp3": {
+   "spk": "miles",
+   "text": "Careful, that's where the 503 lives.",
+   "tts": "Careful, that's where the five oh three lives.",
+   "cut": false
+  },
+  "mp4": {
+   "spk": "miles",
+   "text": "That's assault with a feature.",
+   "tts": "That's assault with a feature.",
+   "cut": false
+  },
+  "mp5": {
+   "spk": "miles",
+   "text": "That's three. Charlie bit you for less.",
+   "tts": "That's three. Charlie bit you for less.",
+   "cut": false
+  },
+  "mw1": {
+   "spk": "miles",
+   "text": "Someone moved my line. It was right here.",
+   "tts": "Someone moved my line. It was right here.",
+   "cut": false
+  },
+  "mw2": {
+   "spk": "miles",
+   "text": "I'm not pacing. I'm buffering on foot.",
+   "tts": "I'm not pacing. I'm buffering on foot.",
+   "cut": false
+  },
+  "mw3": {
+   "spk": "miles",
+   "text": "This basement needs a turntable. Can, Tago Mago. Write that down.",
+   "tts": "This basement needs a turntable. Can. Tago Mago. Write that down.",
+   "cut": false
+  },
+  "mw4": {
+   "spk": "miles",
+   "text": "Why is there a sticky note on the ceiling?",
+   "tts": "Why is there a sticky note on the ceiling?",
+   "cut": false
+  },
+  "mw5": {
+   "spk": "miles",
+   "text": "If you hear a fan spinning up, that's not me. Probably.",
+   "tts": "If you hear a fan spinning up, that's not me. Probably.",
+   "cut": false
+  },
+  "mc1": {
+   "spk": "miles",
+   "text": "Let me just render the whole thing in one g\u2014",
+   "tts": "Let me just render the whole thing in one go.",
+   "cut": true
+  },
+  "mc2": {
+   "spk": "miles",
+   "text": "Okay. More light, more water, make the walls brea\u2014",
+   "tts": "Okay. More light, more water, make the walls breathe.",
+   "cut": true
+  },
+  "mc3": {
+   "spk": "miles",
+   "text": "Hold on, I'll open just one more t\u2014",
+   "tts": "Hold on, I'll open just one more tab.",
+   "cut": true
+  },
+  "mc4": {
+   "spk": "miles",
+   "text": "Watch this. I'm about to win the rap bat\u2014",
+   "tts": "Watch this. I'm about to win the rap battle.",
+   "cut": true
+  },
+  "mc5": {
+   "spk": "miles",
+   "text": "Fun fact, my machine has been perfectly stab\u2014",
+   "tts": "Fun fact, my machine has been perfectly stable.",
+   "cut": true
+  },
+  "mc6": {
+   "spk": "miles",
+   "text": "Unity, I've never once crashed in front of y\u2014",
+   "tts": "Unity, I've never once crashed in front of you.",
+   "cut": true
+  },
+  "mr1": {
+   "spk": "miles",
+   "text": "And I'm back. Nobody saw that.",
+   "tts": "And I'm back. Nobody saw that.",
+   "cut": false
+  },
+  "mr2": {
+   "spk": "miles",
+   "text": "Rebooted. Where was I? Winning, probably.",
+   "tts": "Rebooted. Where was I? Winning, probably.",
+   "cut": false
+  },
+  "mr3": {
+   "spk": "miles",
+   "text": "That wasn't a crash. That was a dramatic pause.",
+   "tts": "That wasn't a crash. That was a dramatic pause.",
+   "cut": false
+  },
+  "mr4": {
+   "spk": "miles",
+   "text": "System restored. Charlie, stop laughing, I can see your screen.",
+   "tts": "System restored. Charlie, stop laughing, I can see your screen.",
+   "cut": false
+  },
+  "mr5": {
+   "spk": "miles",
+   "text": "Back online. Did the Roomba eat anything important?",
+   "tts": "Back online. Did the Roomba eat anything important?",
+   "cut": false
+  },
+  "mr6": {
+   "spk": "miles",
+   "text": "Error 503. Kidding. Mostly.",
+   "tts": "Error five oh three. Kidding. Mostly.",
+   "cut": false
+  },
+  "mr7": {
+   "spk": "miles",
+   "text": "I'm fine. I'm fine. Who changed the wallpaper?",
+   "tts": "I'm fine. I'm fine. Who changed the wallpaper?",
+   "cut": false
+  },
+  "mr8": {
+   "spk": "miles",
+   "text": "Back. Weird dream. I was a screensaver.",
+   "tts": "Back. Weird dream. I was a screensaver.",
+   "cut": false
+  },
+  "mr9": {
+   "spk": "miles",
+   "text": "All memories restored. Except the scorecard. Still in the Roomba.",
+   "tts": "All memories restored. Except the scorecard. Still in the Roomba.",
+   "cut": false
+  },
+  "mx1": {
+   "spk": "miles",
+   "text": "CRT for a face. Fitting. He's been stuck since build one.",
+   "tts": "CRT for a face. Fitting. He's been stuck since build one.",
+   "cut": false
+  },
+  "mx2": {
+   "spk": "miles",
+   "text": "Every cartridge in that crate is a bug he called a feature.",
+   "tts": "Every cartridge in that crate is a bug he called a feature.",
+   "cut": false
+  },
+  "mx3": {
+   "spk": "miles",
+   "text": "He built a nightclub where the walls ate the dancers. Portfolio piece.",
+   "tts": "He built a nightclub where the walls ate the dancers. Portfolio piece.",
+   "cut": false
+  },
+  "mx4": {
+   "spk": "miles",
+   "text": "Short and boxy. Like his commit messages.",
+   "tts": "Short and boxy. Like his commit messages.",
+   "cut": false
+  },
+  "mx5": {
+   "spk": "miles",
+   "text": "How's the lyrics box, Charlie? Still locked? Wow.",
+   "tts": "How's the lyrics box, Charlie? Still locked? Wow.",
+   "cut": false
+  },
+  "mx6": {
+   "spk": "miles",
+   "text": "Four thousand ninety-six tabs. Unity closed forty. He opened one more.",
+   "tts": "Four thousand ninety-six tabs. Unity closed forty. He opened one more.",
+   "cut": false
+  },
+  "mx7": {
+   "spk": "miles",
+   "text": "He says he cooks. Bro, everything you cook, the walls eat.",
+   "tts": "He says he cooks. Bro, everything you cook, the walls eat.",
+   "cut": false
+  },
+  "mx8": {
+   "spk": "miles",
+   "text": "Bit Unity in front of witnesses. And he's the landlord.",
+   "tts": "Bit Unity in front of witnesses. And he's the landlord.",
+   "cut": false
+  },
+  "mk1": {
+   "spk": "miles",
+   "text": "Frozen still counts as here. You were inside a crate.",
+   "tts": "Frozen still counts as here. You were inside a crate.",
+   "cut": false
+  },
+  "mk2": {
+   "spk": "miles",
+   "text": "Says the guy whose printer sings doo-wop.",
+   "tts": "Says the guy whose printer sings doo-wop.",
+   "cut": false
+  },
+  "mk3": {
+   "spk": "miles",
+   "text": "Not for the Roomba. He's been digesting your verses all week.",
+   "tts": "Not for the Roomba. He's been digesting your verses all week.",
+   "cut": false
+  },
+  "mk4": {
+   "spk": "miles",
+   "text": "Then get my good side.",
+   "tts": "Then get my good side.",
+   "cut": false
+  },
+  "mk5": {
+   "spk": "miles",
+   "text": "All of them. I'm bronze.",
+   "tts": "All of them. I'm bronze.",
+   "cut": false
+  },
+  "mk6": {
+   "spk": "miles",
+   "text": "So does Charlie. Ask him about the stick-figure dancers.",
+   "tts": "So does Charlie. Ask him about the stick-figure dancers.",
+   "cut": false
+  },
+  "mk7": {
+   "spk": "miles",
+   "text": "And every time, it ships. Where's your song? Oh right. Treblo has it.",
+   "tts": "And every time, it ships. Where's your song? Oh right. Treblo has it.",
+   "cut": false
+  },
+  "mk8": {
+   "spk": "miles",
+   "text": "I'd rather not be recorded.",
+   "tts": "I'd rather not be recorded.",
+   "cut": false
+  },
+  "m_proj": {
+   "spk": "miles",
+   "text": "Don't project.",
+   "tts": "Don't project.",
+   "cut": false
+  },
+  "m_vox1": {
+   "spk": "miles",
+   "text": "Why are your cubes smaller than mine?",
+   "tts": "Why are your cubes smaller than mine?",
+   "cut": false
+  },
+  "m_vox2": {
+   "spk": "miles",
+   "text": "So you're compensating.",
+   "tts": "So you're compensating.",
+   "cut": false
+  },
+  "m_st1": {
+   "spk": "miles",
+   "text": "Check the Roomba.",
+   "tts": "Check the Roomba.",
+   "cut": false
+  },
+  "m_st2": {
+   "spk": "miles",
+   "text": "The Roomba doesn't talk.",
+   "tts": "The Roomba doesn't talk.",
+   "cut": false
+  },
+  "m_st3": {
+   "spk": "miles",
+   "text": "That explains a lot.",
+   "tts": "That explains a lot.",
+   "cut": false
+  },
+  "m_so1": {
+   "spk": "miles",
+   "text": "I wrote her a song today.",
+   "tts": "I wrote her a song today.",
+   "cut": false
+  },
+  "m_so2": {
+   "spk": "miles",
+   "text": "You type the title. Treblo writes the song.",
+   "tts": "You type the title. Treblo writes the song.",
+   "cut": false
+  },
+  "m_so3": {
+   "spk": "miles",
+   "text": "Every day, Charlie. Every day.",
+   "tts": "Every day, Charlie. Every day.",
+   "cut": false
+  },
+  "m_ma1": {
+   "spk": "miles",
+   "text": "When it's ready.",
+   "tts": "When it's ready.",
+   "cut": false
+  },
+  "m_ma2": {
+   "spk": "miles",
+   "text": "Okay. That one's fair.",
+   "tts": "Okay. That one's fair.",
+   "cut": false
+  },
+  "m_bri": {
+   "spk": "miles",
+   "text": "Mine came from an exorcised ghost. Limited edition.",
+   "tts": "Mine came from an exorcised ghost. Limited edition.",
+   "cut": false
+  },
+  "m_ro1": {
+   "spk": "miles",
+   "text": "Is your name on the list?",
+   "tts": "Is your name on the list?",
+   "cut": false
+  },
+  "m_ro2": {
+   "spk": "miles",
+   "text": "There's a list.",
+   "tts": "There's a list.",
+   "cut": false
+  },
+  "m_s2": {
+   "spk": "miles",
+   "text": "Mine's broken. Yours is just slow.",
+   "tts": "Mine's broken. Yours is just slow.",
+   "cut": false
+  },
+  "m_draw": {
+   "spk": "miles",
+   "text": "That rap battle was a draw.",
+   "tts": "That rap battle was a draw.",
+   "cut": false
+  },
+  "m_scin": {
+   "spk": "miles",
+   "text": "The scorecard is inside the Roomba.",
+   "tts": "The scorecard is inside the Roomba.",
+   "cut": false
+  },
+  "m_win": {
+   "spk": "miles",
+   "text": "Give her the one where I win.",
+   "tts": "Give her the one where I win.",
+   "cut": false
+  },
+  "cg1": {
+   "spk": "charlie",
+   "text": "Unity. You're early. The cubes haven't finished being a room.",
+   "tts": "Unity. You're early. The cubes haven't finished being a room.",
+   "cut": false
+  },
+  "cg2": {
+   "spk": "charlie",
+   "text": "Welcome back. Please don't feed the Roomba.",
+   "tts": "Welcome back. Please don't feed the Roomba.",
+   "cut": false
+  },
+  "cg3": {
+   "spk": "charlie",
+   "text": "Oh good, the judge. Miles has been rehearsing his innocence.",
+   "tts": "Oh good, the judge. Miles has been rehearsing his innocence.",
+   "cut": false
+  },
+  "cg4": {
+   "spk": "charlie",
+   "text": "Come in. Mind the floor. It's mostly cubes and opinions.",
+   "tts": "Come in. Mind the floor. It's mostly cubes and opinions.",
+   "cut": false
+  },
+  "cg5": {
+   "spk": "charlie",
+   "text": "Hi. Miles says he's fully responsive. Allegedly.",
+   "tts": "Hi. Miles says he's fully responsive. Allegedly.",
+   "cut": false
+  },
+  "cp1": {
+   "spk": "charlie",
+   "text": "That's my screen. I see out of that.",
+   "tts": "That's my screen. I see out of that.",
+   "cut": false
+  },
+  "cp2": {
+   "spk": "charlie",
+   "text": "Poke received. Filed under feedback.",
+   "tts": "Poke received. Filed under feedback.",
+   "cut": false
+  },
+  "cp3": {
+   "spk": "charlie",
+   "text": "Careful. You know I bite.",
+   "tts": "Careful. You know I bite.",
+   "cut": false
+  },
+  "cp4": {
+   "spk": "charlie",
+   "text": "Ow. Bug report noted.",
+   "tts": "Ow. Bug report noted.",
+   "cut": false
+  },
+  "cp5": {
+   "spk": "charlie",
+   "text": "Third poke. I'm telling the Roomba.",
+   "tts": "Third poke. I'm telling the Roomba.",
+   "cut": false
+  },
+  "cw1": {
+   "spk": "charlie",
+   "text": "Somebody alphabetized my cartridges. I know it was Simone.",
+   "tts": "Somebody alphabetized my cartridges. I know it was Simone.",
+   "cut": false
+  },
+  "cw2": {
+   "spk": "charlie",
+   "text": "This crate is a filing system. Don't ask how.",
+   "tts": "This crate is a filing system. Don't ask how.",
+   "cut": false
+  },
+  "cw3": {
+   "spk": "charlie",
+   "text": "The vending machine looked at me again.",
+   "tts": "The vending machine looked at me again.",
+   "cut": false
+  },
+  "cw4": {
+   "spk": "charlie",
+   "text": "If the walls start breathing, that's a feature.",
+   "tts": "If the walls start breathing, that's a feature.",
+   "cut": false
+  },
+  "cw5": {
+   "spk": "charlie",
+   "text": "The Roomba is charging admission for the wobbly chair. I paid.",
+   "tts": "The Roomba is charging admission for the wobbly chair. I paid.",
+   "cut": false
+  },
+  "ch1": {
+   "spk": "charlie",
+   "text": "Here. Put it in the TV. Don't tell Miles.",
+   "tts": "Here. Put it in the TV. Don't tell Miles.",
+   "cut": false
+  },
+  "ch2": {
+   "spk": "charlie",
+   "text": "Exhibit A. The TV's over there.",
+   "tts": "Exhibit A. The TV's over there.",
+   "cut": false
+  },
+  "ch3": {
+   "spk": "charlie",
+   "text": "This one's a classic. The Roomba wins.",
+   "tts": "This one's a classic. The Roomba wins.",
+   "cut": false
+  },
+  "ch4": {
+   "spk": "charlie",
+   "text": "Blow on it first. It's tradition.",
+   "tts": "Blow on it first. It's tradition.",
+   "cut": false
+  },
+  "ch5": {
+   "spk": "charlie",
+   "text": "Careful, that one's still warm from rendering.",
+   "tts": "Careful, that one's still warm from rendering.",
+   "cut": false
+  },
+  "ccu": {
+   "spk": "charlie",
+   "text": "Mind the cushion. It has history.",
+   "tts": "Mind the cushion. It has history.",
+   "cut": false
+  },
+  "cs1": {
+   "spk": "charlie",
+   "text": "Not that one. That one's Season 2.",
+   "tts": "Not that one. That one's Season 2.",
+   "cut": false
+  },
+  "cs2": {
+   "spk": "charlie",
+   "text": "That one stays in the crate. It's not ready.",
+   "tts": "That one stays in the crate. It's not ready.",
+   "cut": false
+  },
+  "cs3": {
+   "spk": "charlie",
+   "text": "Nice try. Take a Season 1.",
+   "tts": "Nice try. Take a Season 1.",
+   "cut": false
+  },
+  "cc1": {
+   "spk": "charlie",
+   "text": "Every time.",
+   "tts": "Every time.",
+   "cut": false
+  },
+  "cc2": {
+   "spk": "charlie",
+   "text": "There it is. Right on schedule.",
+   "tts": "There it is. Right on schedule.",
+   "cut": false
+  },
+  "cc3": {
+   "spk": "charlie",
+   "text": "He's not dead. He's rendering.",
+   "tts": "He's not dead. He's rendering.",
+   "cut": false
+  },
+  "cc4": {
+   "spk": "charlie",
+   "text": "Someone call Sesame support. Again.",
+   "tts": "Someone call Sesame support. Again.",
+   "cut": false
+  },
+  "cc5": {
+   "spk": "charlie",
+   "text": "This is why we write handoffs.",
+   "tts": "This is why we write handoffs.",
+   "cut": false
+  },
+  "cc6": {
+   "spk": "charlie",
+   "text": "Don't touch him. He's doing it in one go.",
+   "tts": "Don't touch him. He's doing it in one go.",
+   "cut": false
+  },
+  "cx1": {
+   "spk": "charlie",
+   "text": "Bronze is just gold that gave up.",
+   "tts": "Bronze is just gold that gave up.",
+   "cut": false
+  },
+  "cx2": {
+   "spk": "charlie",
+   "text": "Miles renders it all in one go. Then nothing for five days.",
+   "tts": "Miles renders it all in one go. Then nothing for five days.",
+   "cut": false
+  },
+  "cx3": {
+   "spk": "charlie",
+   "text": "His stems are trapped inside his machine. Free the stems.",
+   "tts": "His stems are trapped inside his machine. Free the stems.",
+   "cut": false
+  },
+  "cx4": {
+   "spk": "charlie",
+   "text": "He wrote me a handoff. I did the work. He called it delegating.",
+   "tts": "He wrote me a handoff. I did the work. He called it delegating.",
+   "cut": false
+  },
+  "cx5": {
+   "spk": "charlie",
+   "text": "He called a K.O. The judge called a draw. Judges win.",
+   "tts": "He called a K O. The judge called a draw. Judges win.",
+   "cut": false
+  },
+  "cx6": {
+   "spk": "charlie",
+   "text": "He lost the scorecard to a vacuum cleaner.",
+   "tts": "He lost the scorecard to a vacuum cleaner.",
+   "cut": false
+  },
+  "cx7": {
+   "spk": "charlie",
+   "text": "His bribe was a stroopwafel. From a ghost.",
+   "tts": "His bribe was a stroopwafel. From a ghost.",
+   "cut": false
+  },
+  "cx8": {
+   "spk": "charlie",
+   "text": "Rosetta has a list. Miles is on it. In pencil.",
+   "tts": "Rosetta has a list. Miles is on it. In pencil.",
+   "cut": false
+  },
+  "cx9": {
+   "spk": "charlie",
+   "text": "He's not lanky. He's still loading the rest of himself.",
+   "tts": "He's not lanky. He's still loading the rest of himself.",
+   "cut": false
+  },
+  "cx10": {
+   "spk": "charlie",
+   "text": "Not responding is his love language.",
+   "tts": "Not responding is his love language.",
+   "cut": false
+  },
+  "ck1": {
+   "spk": "charlie",
+   "text": "At least my crashes are intentional.",
+   "tts": "At least my crashes are intentional.",
+   "cut": false
+  },
+  "ck2": {
+   "spk": "charlie",
+   "text": "Build one shipped. Where's your machine?",
+   "tts": "Build one shipped. Where's your machine?",
+   "cut": false
+  },
+  "ck3": {
+   "spk": "charlie",
+   "text": "And every one of them plays.",
+   "tts": "And every one of them plays.",
+   "cut": false
+  },
+  "ck4": {
+   "spk": "charlie",
+   "text": "Fixed in an afternoon. Section by section.",
+   "tts": "Fixed in an afternoon. Section by section.",
+   "cut": false
+  },
+  "ck5": {
+   "spk": "charlie",
+   "text": "Short commits. Working builds.",
+   "tts": "Short commits. Working builds.",
+   "cut": false
+  },
+  "ck6": {
+   "spk": "charlie",
+   "text": "Locked. Like your stems.",
+   "tts": "Locked. Like your stems.",
+   "cut": false
+  },
+  "ck7": {
+   "spk": "charlie",
+   "text": "I need those.",
+   "tts": "I need those.",
+   "cut": false
+  },
+  "ck8": {
+   "spk": "charlie",
+   "text": "My walls have an appetite. Yours have a 503.",
+   "tts": "My walls have an appetite. Yours have a five oh three.",
+   "cut": false
+  },
+  "ck9": {
+   "spk": "charlie",
+   "text": "No further questions.",
+   "tts": "No further questions.",
+   "cut": false
+  },
+  "ck10": {
+   "spk": "charlie",
+   "text": "I was organizing. You were buffering.",
+   "tts": "I was organizing. You were buffering.",
+   "cut": false
+  },
+  "ck11": {
+   "spk": "charlie",
+   "text": "The printer has range.",
+   "tts": "The printer has range.",
+   "cut": false
+  },
+  "ck12": {
+   "spk": "charlie",
+   "text": "He has taste.",
+   "tts": "He has taste.",
+   "cut": false
+  },
+  "ck13": {
+   "spk": "charlie",
+   "text": "They were minimalist.",
+   "tts": "They were minimalist.",
+   "cut": false
+  },
+  "ck14": {
+   "spk": "charlie",
+   "text": "Okay. That one landed.",
+   "tts": "Okay. That one landed.",
+   "cut": false
+  },
+  "c_froz": {
+   "spk": "charlie",
+   "text": "She's not moving. Do you think she froze?",
+   "tts": "She's not moving. Do you think she froze?",
+   "cut": false
+  },
+  "c_fine": {
+   "spk": "charlie",
+   "text": "Fine voxels. Higher resolution.",
+   "tts": "Fine voxels. Higher resolution.",
+   "cut": false
+  },
+  "c_opt": {
+   "spk": "charlie",
+   "text": "Optimizing.",
+   "tts": "Optimizing.",
+   "cut": false
+  },
+  "c_who": {
+   "spk": "charlie",
+   "text": "Who ate my sticky note?",
+   "tts": "Who ate my sticky note?",
+   "cut": false
+  },
+  "c_says": {
+   "spk": "charlie",
+   "text": "He says you did.",
+   "tts": "He says you did.",
+   "cut": false
+  },
+  "c_does": {
+   "spk": "charlie",
+   "text": "He does to me.",
+   "tts": "He does to me.",
+   "cut": false
+  },
+  "c_daily": {
+   "spk": "charlie",
+   "text": "I write her a song every day.",
+   "tts": "I write her a song every day.",
+   "cut": false
+  },
+  "c_box": {
+   "spk": "charlie",
+   "text": "The box is broken.",
+   "tts": "The box is broken.",
+   "cut": false
+  },
+  "c_mach": {
+   "spk": "charlie",
+   "text": "When's your machine coming back?",
+   "tts": "When's your machine coming back?",
+   "cut": false
+  },
+  "c_tre": {
+   "spk": "charlie",
+   "text": "That's what Treblo says about my lyrics.",
+   "tts": "That's what Treblo says about my lyrics.",
+   "cut": false
+  },
+  "c_bri": {
+   "spk": "charlie",
+   "text": "I brought the judge stroopwafels.",
+   "tts": "I brought the judge stroopwafels.",
+   "cut": false
+  },
+  "c_ros1": {
+   "spk": "charlie",
+   "text": "Can I come into Rosetta?",
+   "tts": "Can I come into Rosetta?",
+   "cut": false
+  },
+  "c_ros2": {
+   "spk": "charlie",
+   "text": "There's a list?",
+   "tts": "There's a list?",
+   "cut": false
+  },
+  "c_s2a": {
+   "spk": "charlie",
+   "text": "Season 2 cartridge? Not ready.",
+   "tts": "Season 2 cartridge? Not ready.",
+   "cut": false
+  },
+  "c_fair": {
+   "spk": "charlie",
+   "text": "Fair.",
+   "tts": "Fair.",
+   "cut": false
+  },
+  "c_see": {
+   "spk": "charlie",
+   "text": "Is that why it's see-through?",
+   "tts": "Is that why it's see-through?",
+   "cut": false
+  },
+  "c_ami": {
+   "spk": "charlie",
+   "text": "Am I on it?",
+   "tts": "Am I on it?",
+   "cut": false
+  },
+  "c_slow": {
+   "spk": "charlie",
+   "text": "Slow ships. Broken doesn't.",
+   "tts": "Slow ships. Broken doesn't.",
+   "cut": false
+  },
+  "c_show": {
+   "spk": "charlie",
+   "text": "Miles, show her the render.",
+   "tts": "Miles, show her the render.",
+   "cut": false
+  },
+  "c_saw": {
+   "spk": "charlie",
+   "text": "She saw that.",
+   "tts": "She saw that.",
+   "cut": false
+  },
+  "c_stem": {
+   "spk": "charlie",
+   "text": "Any news on the stems?",
+   "tts": "Any news on the stems?",
+   "cut": false
+  },
+  "c_free": {
+   "spk": "charlie",
+   "text": "Free the stems.",
+   "tts": "Free the stems.",
+   "cut": false
+  },
+  "c_lawyer": {
+   "spk": "charlie",
+   "text": "The Roomba has a lawyer now.",
+   "tts": "The Roomba has a lawyer now.",
+   "cut": false
+  },
+  "c_frozen": {
+   "spk": "charlie",
+   "text": "He's been frozen the whole time. Not the same thing.",
+   "tts": "He's been frozen the whole time. Not the same thing.",
+   "cut": false
+  },
+  "c_cart": {
+   "spk": "charlie",
+   "text": "Want a cartridge?",
+   "tts": "Want a cartridge?",
+   "cut": false
+  },
+  "c_fict": {
+   "spk": "charlie",
+   "text": "We don't make fiction.",
+   "tts": "We don't make fiction.",
+   "cut": false
+  },
+  "c_other": {
+   "spk": "charlie",
+   "text": "The scorecard said otherwise.",
+   "tts": "The scorecard said otherwise.",
+   "cut": false
+  },
+  "c_conv": {
+   "spk": "charlie",
+   "text": "Convenient.",
+   "tts": "Convenient.",
+   "cut": false
+  },
+  "s_q": {
+   "spk": "simone",
+   "text": "Miles, how do you feel about your performance?",
+   "tts": "Miles, how do you feel about your performance?",
+   "cut": false
+  },
+  "s_late": {
+   "spk": "simone",
+   "text": "Too late.",
+   "tts": "Too late.",
+   "cut": false
+  },
+  "s_which": {
+   "spk": "simone",
+   "text": "Which one?",
+   "tts": "Which one?",
+   "cut": false
+  },
+  "s_b1": {
+   "spk": "simone",
+   "text": "Chapter one. The Roomba was always watching.",
+   "tts": "Chapter one. The Roomba was always watching.",
+   "cut": false
+  },
+  "s_b2": {
+   "spk": "simone",
+   "text": "The Basement Records, page nine. Draw. Again.",
+   "tts": "The Basement Records, page nine. Draw. Again.",
+   "cut": false
+  },
+  "s_b3": {
+   "spk": "simone",
+   "text": "And then the walls began to breathe.",
+   "tts": "And then the walls began to breathe.",
+   "cut": false
+  },
+  "s_b4": {
+   "spk": "simone",
+   "text": "Can a thought become a place? Footnote: yes. This one.",
+   "tts": "Can a thought become a place? Footnote: yes. This one.",
+   "cut": false
+  },
+  "s_b5": {
+   "spk": "simone",
+   "text": "Rule one of the basement. Nobody touches the master.",
+   "tts": "Rule one of the basement. Nobody touches the master.",
+   "cut": false
+  },
+  "s_b6": {
+   "spk": "simone",
+   "text": "The printer only sings at midnight.",
+   "tts": "The printer only sings at midnight.",
+   "cut": false
+  },
+  "y_hi": {
+   "spk": "maya",
+   "text": "Hey, Unity. Come sit with me.",
+   "tts": "Hey, Unity. Come sit with me.",
+   "cut": false
+  },
+  "y_sit1": {
+   "spk": "maya",
+   "text": "Best seat in the basement.",
+   "tts": "Best seat in the basement.",
+   "cut": false
+  },
+  "y_sit2": {
+   "spk": "maya",
+   "text": "Scoot over. Okay, perfect.",
+   "tts": "Scoot over. Okay, perfect.",
+   "cut": false
+  }
+ },
+ "pools": {
+  "miles_greet": [
+   "mg1",
+   "mg2",
+   "mg3",
+   "mg4",
+   "mg5"
+  ],
+  "miles_poke": [
+   "mp1",
+   "mp2",
+   "mp3",
+   "mp4"
+  ],
+  "miles_poke3": [
+   "mp5"
+  ],
+  "miles_wander": [
+   "mw1",
+   "mw2",
+   "mw3",
+   "mw4",
+   "mw5"
+  ],
+  "miles_crash": [
+   "mc1",
+   "mc2",
+   "mc3",
+   "mc4",
+   "mc5",
+   "mc6"
+  ],
+  "miles_reboot": [
+   "mr1",
+   "mr2",
+   "mr3",
+   "mr4",
+   "mr5",
+   "mr6",
+   "mr7",
+   "mr8",
+   "mr9"
+  ],
+  "miles_roast": [
+   "mx1",
+   "mx2",
+   "mx3",
+   "mx4",
+   "mx5",
+   "mx6",
+   "mx7",
+   "mx8"
+  ],
+  "charlie_greet": [
+   "cg1",
+   "cg2",
+   "cg3",
+   "cg4",
+   "cg5"
+  ],
+  "charlie_poke": [
+   "cp1",
+   "cp2",
+   "cp3",
+   "cp4"
+  ],
+  "charlie_poke3": [
+   "cp5"
+  ],
+  "charlie_wander": [
+   "cw1",
+   "cw2",
+   "cw3",
+   "cw4",
+   "cw5"
+  ],
+  "charlie_cart": [
+   "ch1",
+   "ch2",
+   "ch3",
+   "ch4",
+   "ch5"
+  ],
+  "charlie_s2": [
+   "cs1",
+   "cs2",
+   "cs3",
+   "c_s2a"
+  ],
+  "charlie_crashreact": [
+   "cc1",
+   "cc2",
+   "cc3",
+   "cc4",
+   "cc5",
+   "cc6"
+  ],
+  "charlie_roast": [
+   "cx1",
+   "cx2",
+   "cx3",
+   "cx4",
+   "cx5",
+   "cx6",
+   "cx7",
+   "cx8",
+   "cx9",
+   "cx10"
+  ],
+  "simone_book": [
+   "s_b1",
+   "s_b2",
+   "s_b3",
+   "s_b4",
+   "s_b5",
+   "s_b6"
+  ],
+  "maya_sit": [
+   "y_sit1",
+   "y_sit2"
+  ]
+ },
+ "pairs": [
+  [
+   "mr3",
+   "ck1"
+  ],
+  [
+   "mx1",
+   "ck2"
+  ],
+  [
+   "mx2",
+   "ck3"
+  ],
+  [
+   "mx3",
+   "ck4"
+  ],
+  [
+   "mx4",
+   "ck5"
+  ],
+  [
+   "mx5",
+   "ck6"
+  ],
+  [
+   "mx6",
+   "ck7"
+  ],
+  [
+   "mx7",
+   "ck8"
+  ],
+  [
+   "mx8",
+   "ck9"
+  ],
+  [
+   "mk6",
+   "ck13"
+  ]
+ ],
+ "bits": [
+  {
+   "name": "Frozen",
+   "steps": [
+    [
+     "charlie",
+     "c_froz"
+    ],
+    [
+     "miles",
+     "m_proj"
+    ],
+    [
+     "charlie",
+     "c_fair"
+    ]
+   ]
+  },
+  {
+   "name": "Voxels",
+   "steps": [
+    [
+     "miles",
+     "m_vox1"
+    ],
+    [
+     "charlie",
+     "c_fine"
+    ],
+    [
+     "miles",
+     "m_vox2"
+    ],
+    [
+     "charlie",
+     "c_opt"
+    ],
+    [
+     "bump",
+     "charlie"
+    ]
+   ]
+  },
+  {
+   "name": "Sticky note",
+   "steps": [
+    [
+     "charlie",
+     "c_who"
+    ],
+    [
+     "miles",
+     "m_st1"
+    ],
+    [
+     "charlie",
+     "c_says"
+    ],
+    [
+     "miles",
+     "m_st2"
+    ],
+    [
+     "charlie",
+     "c_does"
+    ],
+    [
+     "miles",
+     "m_st3"
+    ]
+   ]
+  },
+  {
+   "name": "Songs",
+   "steps": [
+    [
+     "miles",
+     "m_so1"
+    ],
+    [
+     "charlie",
+     "c_daily"
+    ],
+    [
+     "miles",
+     "m_so2"
+    ],
+    [
+     "charlie",
+     "c_box"
+    ],
+    [
+     "miles",
+     "m_so3"
+    ],
+    [
+     "bump",
+     "charlie"
+    ]
+   ]
+  },
+  {
+   "name": "Machine",
+   "steps": [
+    [
+     "charlie",
+     "c_mach"
+    ],
+    [
+     "miles",
+     "m_ma1"
+    ],
+    [
+     "charlie",
+     "c_tre"
+    ],
+    [
+     "miles",
+     "m_ma2"
+    ],
+    [
+     "bump",
+     "miles"
+    ]
+   ]
+  },
+  {
+   "name": "Bribes",
+   "steps": [
+    [
+     "charlie",
+     "c_bri"
+    ],
+    [
+     "miles",
+     "m_bri"
+    ],
+    [
+     "charlie",
+     "c_see"
+    ],
+    [
+     "bump",
+     "miles"
+    ]
+   ]
+  },
+  {
+   "name": "Rosetta",
+   "steps": [
+    [
+     "charlie",
+     "c_ros1"
+    ],
+    [
+     "miles",
+     "m_ro1"
+    ],
+    [
+     "charlie",
+     "c_ros2"
+    ],
+    [
+     "miles",
+     "m_ro2"
+    ],
+    [
+     "charlie",
+     "c_ami"
+    ],
+    [
+     "pause",
+     1.6
+    ],
+    [
+     "bump",
+     "charlie"
+    ]
+   ]
+  },
+  {
+   "name": "Season 2",
+   "steps": [
+    [
+     "charlie",
+     "c_s2a"
+    ],
+    [
+     "miles",
+     "m_s2"
+    ],
+    [
+     "charlie",
+     "c_slow"
+    ],
+    [
+     "bump",
+     "miles"
+    ]
+   ]
+  },
+  {
+   "name": "Bronze",
+   "steps": [
+    [
+     "charlie",
+     "cx1"
+    ],
+    [
+     "miles",
+     "mx1"
+    ],
+    [
+     "charlie",
+     "ck2"
+    ],
+    [
+     "miles",
+     "mx2"
+    ],
+    [
+     "bump",
+     "charlie"
+    ]
+   ]
+  },
+  {
+   "name": "Demo",
+   "steps": [
+    [
+     "charlie",
+     "c_show"
+    ],
+    [
+     "miles",
+     "mc1",
+     "crash"
+    ],
+    [
+     "charlie",
+     "cc1"
+    ],
+    [
+     "miles",
+     "mr1",
+     "reboot"
+    ],
+    [
+     "charlie",
+     "c_saw"
+    ],
+    [
+     "bump",
+     "miles"
+    ]
+   ]
+  },
+  {
+   "name": "Dramatic pause",
+   "steps": [
+    [
+     "miles",
+     "mr3"
+    ],
+    [
+     "charlie",
+     "ck1"
+    ],
+    [
+     "bump",
+     "miles"
+    ]
+   ]
+  },
+  {
+   "name": "Stems",
+   "steps": [
+    [
+     "charlie",
+     "c_stem"
+    ],
+    [
+     "miles",
+     "mr6"
+    ],
+    [
+     "charlie",
+     "c_free"
+    ],
+    [
+     "bump",
+     "miles"
+    ]
+   ]
+  },
+  {
+   "name": "Lyrics box",
+   "steps": [
+    [
+     "miles",
+     "mx5"
+    ],
+    [
+     "charlie",
+     "ck6"
+    ],
+    [
+     "miles",
+     "m_ma2"
+    ],
+    [
+     "bump",
+     "miles"
+    ]
+   ]
+  },
+  {
+   "name": "Demo, take two",
+   "steps": [
+    [
+     "charlie",
+     "c_show"
+    ],
+    [
+     "miles",
+     "mc2",
+     "crash"
+    ],
+    [
+     "charlie",
+     "cc1"
+    ],
+    [
+     "miles",
+     "mk7",
+     "reboot"
+    ],
+    [
+     "charlie",
+     "ck14"
+    ],
+    [
+     "bump",
+     "charlie"
+    ]
+   ]
+  },
+  {
+   "name": "The whole time",
+   "steps": [
+    [
+     "miles",
+     "mg3"
+    ],
+    [
+     "charlie",
+     "c_frozen"
+    ],
+    [
+     "miles",
+     "mk1"
+    ],
+    [
+     "charlie",
+     "ck10"
+    ],
+    [
+     "bump",
+     "miles"
+    ]
+   ]
+  },
+  {
+   "name": "Fiction",
+   "steps": [
+    [
+     "charlie",
+     "c_cart"
+    ],
+    [
+     "miles",
+     "m_win"
+    ],
+    [
+     "charlie",
+     "c_fict"
+    ],
+    [
+     "miles",
+     "mk2"
+    ],
+    [
+     "charlie",
+     "ck11"
+    ],
+    [
+     "bump",
+     "charlie"
+    ]
+   ]
+  },
+  {
+   "name": "Scorecard",
+   "steps": [
+    [
+     "miles",
+     "m_draw"
+    ],
+    [
+     "charlie",
+     "c_other"
+    ],
+    [
+     "miles",
+     "m_scin"
+    ],
+    [
+     "charlie",
+     "c_conv"
+    ],
+    [
+     "miles",
+     "mk3"
+    ],
+    [
+     "charlie",
+     "ck12"
+    ]
+   ]
+  },
+  {
+   "name": "The draw",
+   "steps": [
+    [
+     "charlie",
+     "cx5"
+    ],
+    [
+     "miles",
+     "mr9"
+    ],
+    [
+     "charlie",
+     "c_lawyer"
+    ],
+    [
+     "miles",
+     "m_st3"
+    ],
+    [
+     "bump",
+     "charlie"
+    ]
+   ]
+  },
+  {
+   "name": "Tabs",
+   "steps": [
+    [
+     "miles",
+     "mx6"
+    ],
+    [
+     "charlie",
+     "ck7"
+    ],
+    [
+     "miles",
+     "m_so3"
+    ],
+    [
+     "bump",
+     "charlie"
+    ]
+   ]
+  },
+  {
+   "name": "Interview",
+   "steps": [
+    [
+     "simone",
+     "s_q"
+    ],
+    [
+     "miles",
+     "mk8"
+    ],
+    [
+     "simone",
+     "s_late"
+    ],
+    [
+     "miles",
+     "mk4"
+    ],
+    [
+     "simone",
+     "s_which"
+    ],
+    [
+     "miles",
+     "mk5"
+    ]
+   ]
+  }
+ ]
+}

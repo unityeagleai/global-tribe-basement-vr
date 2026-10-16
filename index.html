@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<title>Global Tribe Basement VR</title>
+<meta name="description" content="The Global Tribe Basement, built out of tiny cubes. Walk in, poke Miles, take a cartridge from Charlie.">
+<style>
+  html, body { margin: 0; height: 100%; background: #07060a; overflow: hidden; font-family: ui-monospace, Menlo, Consolas, monospace; color: #efe6cf; }
+  #app canvas { display: block; touch-action: none; }
+  #overlay { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; background: radial-gradient(ellipse at 50% 40%, rgba(40,28,14,0.82), rgba(5,4,8,0.96)); z-index: 5; }
+  #overlay.hidden { display: none; }
+  .card { max-width: 560px; padding: 28px 30px; text-align: center; }
+  h1 { margin: 0 0 4px; font-size: 30px; letter-spacing: 3px; color: #e8c45a; text-shadow: 0 0 18px rgba(232,196,90,0.45); }
+  .sub { margin: 0 0 22px; color: #9fd3c4; letter-spacing: 2px; font-size: 13px; }
+  button { font: inherit; font-size: 17px; letter-spacing: 2px; margin: 6px; padding: 13px 26px; border-radius: 4px; cursor: pointer; border: 2px solid #e8c45a; background: #1b140a; color: #e8c45a; }
+  button:hover { background: #2a1f0e; }
+  #vrBtn { background: #e8c45a; color: #1b140a; }
+  .how { margin-top: 20px; font-size: 13px; line-height: 1.6; color: #c9bfa8; text-align: left; }
+  .how b { color: #e8c45a; }
+  #status { margin-top: 12px; font-size: 13px; color: #ff9b8a; min-height: 1em; }
+  #padL { position: fixed; left: 18px; bottom: 18px; width: 120px; height: 120px; border-radius: 60px; border: 2px solid rgba(232,196,90,0.35); display: none; z-index: 4; }
+  @media (pointer: coarse) { #padL { display: block; } }
+</style>
+</head>
+<body>
+<div id="app"></div>
+<div id="padL"></div>
+<div id="overlay"><div class="card">
+  <h1>GLOBAL TRIBE BASEMENT</h1>
+  <p class="sub">VR &middot; built from tiny cubes</p>
+  <button id="vrBtn" style="display:none">ENTER VR</button>
+  <button id="walkBtn">WALK IN</button>
+  <div id="status">Loading the lines&hellip;</div>
+  <div class="how">
+    <b>Quest:</b> left stick walks, right stick turns. Point and pull the trigger to use things. Touch a robot with your controller to poke it. Sit or crouch for real.<br>
+    <b>Desktop:</b> WASD to walk, drag to look, click to use things, C to crouch, Space to stand up.<br>
+    <b>Try:</b> the crate next to Charlie, then the TV &middot; poke Miles (twice) &middot; a book orbiting Simone &middot; a note on the wall, then let go of it &middot; the couch &middot; the record crate &middot; the vending machine &middot; the little Roomba's briefcase &middot; or just stand still.
+  </div>
+</div></div>
+<script src="js/three.min.js"></script>
+<script src="js/episodes.js"></script>
+<script src="js/world.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
